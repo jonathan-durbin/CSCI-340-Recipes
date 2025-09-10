@@ -23,3 +23,4 @@ This is my egg sandwich recipe! I hope you enjoy. This recipe is carefully tuned
 1. Apply salt and pepper to eggs/cheese.
 1. Once the cheese softens and you're able to flip the eggs without losing the cheese, flip them.
 1. Let the cheese crisp up under the eggs, increase heat if you're feeling impatient.
+1. Finally, make the sandwich and enjoy!
