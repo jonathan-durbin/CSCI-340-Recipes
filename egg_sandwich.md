@@ -5,10 +5,10 @@ This is my egg sandwich recipe! I hope you enjoy. This recipe is carefully tuned
 
 ## Ingredients
 
-1. Eggs
-1. Cheddar Cheese
-1. Bread
-1. Butter
+1. 2 Eggs
+1. 1/2 cup of cheddar cheese
+1. 2 slices of bread
+1. 1 tbsp of butter
 1. Salt
 1. Pepper
 1. Hot sauce (sriracha)
@@ -23,4 +23,5 @@ This is my egg sandwich recipe! I hope you enjoy. This recipe is carefully tuned
 1. Apply salt and pepper to eggs/cheese.
 1. Once the cheese softens and you're able to flip the eggs without losing the cheese, flip them.
 1. Let the cheese crisp up under the eggs, increase heat if you're feeling impatient.
+1. Once done, flip the eggs back over and get your toast ready.
 1. Finally, make the sandwich and enjoy!
