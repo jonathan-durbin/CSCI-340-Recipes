@@ -11,7 +11,7 @@ This is my egg sandwich recipe! I hope you enjoy. This recipe is carefully tuned
 1. 1 tbsp of butter
 1. Salt
 1. Pepper
-1. Hot sauce (sriracha)
+1. Hot sauce (texas sauce)
 
 ## Directions
 
