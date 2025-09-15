@@ -11,7 +11,7 @@ My grandma was a truly based lady. She loved this recipe! Her house always smell
 1. 1 tbsp of butter
 1. Salt
 1. Pepper
-1. Hot sauce (texas sauce)
+1. Hot sauce (texas barbeque)
 
 ## Directions
 
