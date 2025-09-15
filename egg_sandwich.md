@@ -1,7 +1,7 @@
 ## Intro
 This is my egg sandwich recipe! I hope you enjoy. This recipe is carefully tuned to working on an electric stovetop - if you're cooking on gas, you may need to change some of the timing.
 
-[insert space-filling story about my grandma here]
+My grandma was a lovely lady. She loved this recipe! Her house always smelled like egg sandwiches!
 
 ## Ingredients
 
