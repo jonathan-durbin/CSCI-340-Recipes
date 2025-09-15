@@ -6,7 +6,7 @@ My grandma was a lovely lady. She loved this recipe! Her house always smelled li
 ## Ingredients
 
 1. 2 Eggs
-1. 1/2 cup of cheddar cheese
+1. 1/2 cup of provolone cheese
 1. 2 slices of bread
 1. 1 tbsp of butter
 1. Salt
