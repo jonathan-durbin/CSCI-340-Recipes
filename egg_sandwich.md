@@ -6,7 +6,7 @@ My grandma was a truly based lady. She loved this recipe! Her house always smell
 ## Ingredients
 
 1. 2 Eggs
-1. 1/2 cup of gouda cheese
+1. 1/4 cup of gouda cheese
 1. 2 slices of bread
 1. 1 tbsp of olive oil
 1. Salt
